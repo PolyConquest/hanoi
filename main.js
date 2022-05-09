@@ -6,6 +6,5 @@
 // Reads the number of disks in the puzzle
 const numberOfDisks = parseInt(readline());
 
-
-console.log("move 0 1")
-console.log("move 0 2")
+// Moves the smallest disk from the source-tower 0 (left) to the target-tower 1 (middle)
+console.log('move 0 1');
